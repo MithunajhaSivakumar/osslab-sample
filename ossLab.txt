@@ -1,3 +1,2 @@
-Basic and advanced linux commands
-Shell Script
-Git and Github
+Viva 
+Total
